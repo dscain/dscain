@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Self-hosted development activity
+
+Daily activity from my Forgejo instance, including private projects.
+Only dates and activity counts are published.
+
+![Self-hosted Forgejo activity](assets/forgejo-activity.svg)
